@@ -1,2 +1,2 @@
-# python-pi
-this is an example project to demonstrate the use of git on ubuntu
+`# python-pi
+this is an example project to demonstrate the use of git on ubuntu`
